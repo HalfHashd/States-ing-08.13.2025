@@ -6,7 +6,9 @@ Also, crucially, taking theGraph to where it has not gone  before (I think?): I 
 I am trying to get this concept flushed out. 
 I am thinking that the project platform is the main platform and value proposition. The ENS is critical to its identity and being a wallet. 
 The Graph and Chainlink are the services. 
-Right now: from halfa**d to halfhash’d. Help me out. (Shortcut: nxui.net to sister to this github page; also tinyurl.com/1000xui) 
+
+Right now: from halfa**d to halfhash’d. Help me out. 
+This is the project I am thinking to do at the EthGlobal 08.15-17 in NYC. This evolved form the nxui.net, which is now a feature to this Stats-ing. 
 
 
 
