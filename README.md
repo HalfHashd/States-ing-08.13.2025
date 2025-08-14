@@ -1,9 +1,14 @@
 # States-ing / Verb-ing
 (Placeholder 08.13.2025): 
-The main idea: I am attaching projects to the ENS, mini-funding, project management, etc.  So far, the ENS is a noun, masculine potential. States-ing is a verb, feminine principle, and with both, now 10x the use cases.
-
+The main idea: I am attaching projects to the ENS (seems to be original idea) and coverting the ENS as a project identity, etc.  
 Also, crucially, taking theGraph to where it has not gone  before (I think?): I want to make the subGraphs to have “dynamic” end points, with or without AI as the new API. 
-I am trying to get this concept from halfa**d to halfhash’d. Help me out. (Shortcut: nxui.net to sister to this github page; also tinyurl.com/1000xui) 
+
+I am trying to get this concept flushed out. 
+I am thinking that the project platform is the main platform and value proposition. The ENS is critical to its identity and being a wallet. 
+The Graph and Chainlink are the services. 
+Right now: from halfa**d to halfhash’d. Help me out. (Shortcut: nxui.net to sister to this github page; also tinyurl.com/1000xui) 
+
+
 
 All below are to be filled out... 
 ===== 
