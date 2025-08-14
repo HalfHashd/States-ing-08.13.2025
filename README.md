@@ -1,4 +1,4 @@
-# States-ing / Verb-ing
+# States-ing
 (Placeholder 08.13.2025): 
 The main idea: I am attaching projects to the ENS (seems to be original idea) and coverting the ENS as a project identity, etc.  
 Also, crucially, taking theGraph to where it has not gone  before (I think?): I want to make the subGraphs to have “dynamic” end points, with or without AI as the new API. 
