@@ -1,18 +1,14 @@
 # States-ing
-(Placeholder 08.13.2025): 
+(Placeholder 08.13.2025):</br> 
 The main idea: I am attaching projects to the ENS (seems to be original idea) and coverting the ENS as a project identity, etc.  
-Also, crucially, taking theGraph to where it has not gone  before (I think?): I want to make the subGraphs to have “dynamic” end points, with or without AI as the new API. 
+Also, crucially, exploring uses of **theGraph** to have subGraphs to have “dynamic” end points, with the AI as the new API<sup>™</sup>. 
 
-I am trying to get this concept flushed out. 
-I am thinking that the project platform is the main platform and value proposition. The ENS is critical to its identity and being a wallet. 
-The Graph and Chainlink are the services. 
+I am trying to get this concept flushed out. I am thinking that the project platform is the main platform and value proposition. The ENS is critical to its identity and being a wallet. The Graph and Chainlink are the services. 
 
 Right now: from halfa**d to halfhash’d. Help me out. 
 This is the project I am thinking to do at the EthGlobal 08.15-17 in NYC. This evolved form the nxui.net, which is now a feature to this Stats-ing. 
 
-
-
-All below are to be filled out... 
+All below are to be filled out... (08.14.2025. This is on hold, as I am working on the hubpal.org idea and project.) 
 ===== 
 # ____<sup>™</sup>.net
 
@@ -23,16 +19,6 @@ All below are to be filled out...
 <p align="center">
   <img src="____" width="80%">
   <br><em>_______.</em>
-</p>
-
-<p align="center">
-  <img src="……… " width="80%">
-  <br><em>………...</em>
-</p>
-
-<p align="center">
-  <img src="…….="80%">
-  <br><em>……...</em>
 </p>
 
 This README contains two sections: 
